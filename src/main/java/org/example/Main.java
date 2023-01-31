@@ -44,5 +44,9 @@ public class Main {
         }
 
 
+        //If TreeSet was used, the order of print would be alphabetical, and linked hash set would be in oirder of insertion
+        //All of sets do not accept any repeated input, so for this examples, with files etc, set would be the right choice
+        //ps: Set is the faster method.
+
     }
 }
